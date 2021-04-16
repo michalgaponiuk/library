@@ -9,5 +9,6 @@ public class Book {
 
     public static void main(String[] args) {
         Book book = new Book("Kubus",100);
+        Book book1 = new Book("Prosiaczek",200);
     }
 }
